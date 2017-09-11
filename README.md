@@ -7,6 +7,8 @@ Class that order a hash of people by name or age.
 Position yourself in the project folder an init ruby terminal
 
 ```
+$ cd to_derectory_of_project
+
 # to start ruby terminal
 $ irb 
 
