@@ -35,7 +35,7 @@ people_hash = {
   :bryan => { :name => "Bryan", :age => 24 }
 }
 
-people = OrderPeople.new(people)
+people = OrderPeople.new(people_hash)
 
 people.sort_by! "name"
 people.sort_by! "age"
