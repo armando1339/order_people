@@ -1,6 +1,6 @@
 # OrderPeople
 
-Class that order a hash of people by name or age.
+Class that order a hash of people by name or age (just practice).
 
 ## local quicly usage
 
