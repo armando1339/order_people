@@ -46,7 +46,7 @@ people.sort_by_age
 
 ## Test
 
-```ruby
+```
 # run 
 rspec ./order_people_spec.rb
 ```
