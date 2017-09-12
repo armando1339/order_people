@@ -26,7 +26,7 @@ require './order_people'
 people_hash = {
   tommy: { name: "Tommy", age: 34 },
   julian: { name: "Julian", age: 28 },
-  peter: { name: "Peter", age:54 },
+  peter: { name: "Peter", age: 54 },
   justin: { name: "Justin", age: 27 },
   john: { name: "John", age: 20 },
   marck: { name: "Marck", age: 32 },
